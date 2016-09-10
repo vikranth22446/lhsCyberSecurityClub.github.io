@@ -1,4 +1,5 @@
 # LHS Cyber Security Club
+###The Official Website of LHS CyberSecurity Club
 
 Cyber Security is an important part of our daily life. 
 As everything is online, now days, we need to make sure that personal items stay personal.
