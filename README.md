@@ -11,9 +11,9 @@ This mindset can not only be applied to hacking but important to life.
 We also have many practice problems and sites to use to practice your hacking and become a master. 
 We will also be practicing to compete in some hacking competitions.
 
-If you are intrested about joining this club,
+If you are interested about joining this club,
 <a href = "https://docs.google.com/forms/d/e/1FAIpQLSc9bLxth74RmQ6va5rx6TNmjdMU1pzdCTOFs8j7l9FaBV-Y_g/viewform">
-Please fill out the intrest form</a>.
+Please fill out the interest form</a>.
 
 
 
